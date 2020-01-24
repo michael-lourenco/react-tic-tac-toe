@@ -1,5 +1,5 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import './App.css'
 import Game from './Components/Game'
 
 function App() {
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
